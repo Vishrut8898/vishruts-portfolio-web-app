@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Meddon&display=swap');
+
+.blur-effect {
+  position: relative;
+}
+
+.blur-effect::before {
+  content: "";
+  position: absolute;
+  width: 322px;
+  height: 308px;
+  opacity: 0.5;
+  background: #3533d7;
+  background: -0-linear-gradient(190deg, #3533d7 0%, rgba(115,67,210,0) 100%);
+  background: linear-gradient(190deg, #3533d7 0%, rgba(115,67,210,0) 100%);
+  -webkit-filter: blur(150px);
+  filter: blur(150px);
+}
