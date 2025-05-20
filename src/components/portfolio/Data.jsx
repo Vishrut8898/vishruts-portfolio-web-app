@@ -9,7 +9,7 @@ export const projectsData = [
   },
   {
     id: 2,
-    image: "https://media-hosting.imagekit.io/2f27b093c46e45c2/Screenshot%202025-05-08%20191953.png?Expires=1841321015&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=P0S74h78ur2XZtUSYIcPimwy3ZkqOvTNV5jZriFiLwVA9hGrgnHTiUZ5HNF7xbb5HVtMCZKDvNU1XNFjpZkF1zttYherAjtzMsLn1okroqU7K6YE3iaZ660UQjVWL4Fh0qZfLtfVNiKxawST3lL2gmQZr3oYSLWrkfo9uWUculj88U1YjcT5CKg5wkUHD8OvS2t6D-GBWg1uqGrPTPWTboaQn7WeuZcO~rJ-RSXGVBwmOu8I63TtHOt0tXcM1w8WmQvJaiAdVXkKRYGYEIjBBPcFZEv3jeQOYN~ycutNFUJsrAdDdefhqzZvPGCufTjtZuatZDLzs8u-mvqlvZyL6g__",
+    image: "https://i.ibb.co/wr3XDHgP/Screenshot-2025-05-08-191953.png",
     title: "Realtime Chat App - Convo",
     category: "mern",
     link: "https://convo-0cx8.onrender.com",
@@ -17,7 +17,7 @@ export const projectsData = [
   },
   {
     id: 3,
-    image: "https://media-hosting.imagekit.io/f558f6d88a984b67/Screenshot%202025-05-08%20192104.png?Expires=1841321015&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=U0LZ7EcybnRnLIE0ovlu1dW8XfQKighn7EbmHLj8fp9kd8ySX7rdKeCRS-KA0e1D4e65SFLfwkbMNe2CcVCFpWAnXrlN9eelgfhHy~r8hTPlYhxEU2pg0UeGpUvB7VEWRcf~13MnqQcIBXIfJ9YpsTMtYIcyfv5X~rYpxcod~cvjvfxPS0dz1YHhV9Hw08il3kEKZrd0MWgq-OzfjlncdC~dPdLseiWz~GIbE3vDhlDfaaUdReHcq4W12nQGGuXLnw9MYQmRjlHJfbXxZs7GvQ9PoI67DVHzkUAhUIumG4g8AAh6DwKol54ZxdNtW1upPznUcDV7pK3fuN9LzOoing__",
+    image: "https://i.ibb.co/fGTpKm0m/Screenshot-2025-05-08-192104.png",
     title: "My Job Portal",
     category: "mern",
     link: "https://job-portal-up8h.onrender.com",
